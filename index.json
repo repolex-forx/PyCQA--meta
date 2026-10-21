@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "meta",
+  "versions": [
+    {
+      "commit": "c31221a4c76fcef10fc7e5a79c20f168f71e2d01",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:10:20.376257+00:00"
+    }
+  ]
+}
